@@ -2,5 +2,5 @@
 opengrok/docker
 #支持指定架构
 nginx:latest
---platform=openjdk:8
+openjdk:8
 redis:latest
