@@ -4,3 +4,6 @@ opengrok/docker
 nginx:latest
 openjdk:8
 redis:latest
+sjqzhang/go-fastdfs
+java:8
+postgres:14.8
