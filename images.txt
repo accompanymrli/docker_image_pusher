@@ -1,5 +1,6 @@
 #支持私库
 opengrok/docker
 #支持指定架构
---platform=nginx:latest
+nginx:latest
 --platform=openjdk:8
+redis:latest
