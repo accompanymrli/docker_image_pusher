@@ -6,3 +6,4 @@ openjdk:8
 redis:latest
 sjqzhang/go-fastdfs
 postgres:14.8
+rabbitmq:latest
